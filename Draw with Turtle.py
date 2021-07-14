@@ -2,6 +2,7 @@ import turtle
 
 t = turtle.Pen()
 s = turtle.Screen()
+t.shape('turtle')
 t.speed(0)
 
 def pendown():
