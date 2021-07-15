@@ -10,17 +10,93 @@ You can undo by using by pressing 'Z' and clear the Canvas by pressing 'E'.
 
 You can also make shapes by pressing a letter. All the letters to make the shapes are listed below.
 
-o = Dot M = Stamp of the pen/turtle
+o = Dot 
+
+
+
+
+
+M = Stamp of the pen/turtle
+
+
+
+
+
+
 C = Circle
+
+
+
+
+
+
 T = Triangle
+
+
+
+
+
+
+
 A = Star
+
+
+
+
+
+
+
 S = Square
+
+
+
+
+
+
+
 R = Rectangle
+
+
+
+
+
+
+
 P = Pentagon
+
+
+
+
+
+
+
 h = Hexagon
+
+
+
+
+
+
 H = Heptagon
+
+
+
+
+
+
 O = Octagon
+
+
+
+
+
 N = Nonagon
+
+
+
+
+
+
 D = Decagon
 
 You can also undo by using by pressing 'Z' and clear the Canvas by pressing 'E'.
