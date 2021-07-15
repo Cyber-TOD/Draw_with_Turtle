@@ -5,13 +5,6 @@ s = turtle.Screen()
 t.shape('turtle')
 t.speed(0)
 
-def pendown():
-    t.pendown()
-
-def penup():
-    t.penup()
-
-
 def draw_circle():
     t.circle(50)
 
@@ -130,8 +123,11 @@ s.onkey(draw_heptagon, 'H')
 s.onkey(draw_octagon, 'O')
 s.onkey(draw_nonagon, 'N')
 s.onkey(draw_decagon, 'D')
-s.onkey(pendown, 'Down')
-s.onkey(penup, 'Up')
+s.onkey(t.dot, 'o')
+s.onkey(t.undo, 'Z')
+s.onkey(t.clear, 'E')
+s.onkey(t.stamp, 'M')
+s.onkey(t.pendown, 'Down')
+s.onkey(t.penup, 'Up')
 s.listen()
-
 turtle.done()
