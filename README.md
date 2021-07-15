@@ -99,4 +99,4 @@ N = Nonagon
 
 D = Decagon
 
-You can also undo by using by pressing 'Z' and clear the Canvas by pressing 'E'.
+
