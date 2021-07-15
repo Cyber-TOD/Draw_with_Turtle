@@ -1,4 +1,4 @@
-# Draw_with_Python's Turtle
+# Draw with Python's Turtle
 
 You can use 'w', 'a', 's', 'd' to move and turn the pen/turtle around.
 
